@@ -53,3 +53,7 @@ Built and tested on Windows 11. Hidden and system files (such as `desktop.ini`) 
 - [egui-phosphor](https://github.com/amPerl/egui-phosphor) — icons
 - [image](https://github.com/image-rs/image) — image previews
 - [trash](https://github.com/ArturKovacs/trash) — moving items to the Recycle Bin
+
+## License
+
+[MIT](LICENSE)
